@@ -1,5 +1,5 @@
-s="nndhjgjk"
-sub="a"
+s="nndhjgnnjk"
+sub="n"
 flag=False
 pos=-1
 n=len(s)
