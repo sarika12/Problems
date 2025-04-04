@@ -22,3 +22,5 @@ def test_parallel_execution(browser):
     driver.get("https://www.google.com")
     assert "Google" in driver.title
     driver.quit()
+#Note : On terminal following command need to run 
+#Folder Name>pytest -n 2
